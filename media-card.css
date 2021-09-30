@@ -1,0 +1,17 @@
+img {
+    max-width: 100%;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  .card {
+    width: 320px;
+    box-shadow: 1px 1px 4px 1px #888;
+    border-radius: 3px;
+    background-color: white; 
+    overflow: hidden;
+  }
+  .card-content {
+    padding: 1em;
+  }
+  
